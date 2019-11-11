@@ -10,3 +10,18 @@ builder.width(5)
 
 for angle in angles:
     # Turn right, then go forward 25.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+turtle.done()

@@ -15,3 +15,15 @@ amy.right(90)
 amy.forward(100)
 amy.right(90)
 amy.forward(100)
+
+
+
+
+
+
+
+
+
+
+
+turtle.done()

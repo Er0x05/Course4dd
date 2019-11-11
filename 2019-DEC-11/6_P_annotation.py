@@ -26,3 +26,17 @@ amy.forward(100)
 # amy.speed(0)
 # amy.penup()
 # amy.pendown()
+
+
+
+
+
+
+
+
+
+
+
+
+
+turtle.done()

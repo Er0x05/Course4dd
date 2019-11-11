@@ -33,3 +33,16 @@ amy.penup()
 amy.forward(50)
 amy.pendown()
 
+
+
+
+
+
+
+
+
+
+
+
+
+turtle.done()

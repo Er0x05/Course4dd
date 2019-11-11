@@ -9,3 +9,19 @@ dizzy.width(5)
 for length in lengths:
     dizzy.forward(length)
     dizzy.right(90)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    turtle.done()
